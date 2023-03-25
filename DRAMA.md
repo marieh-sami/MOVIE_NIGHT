@@ -2,3 +2,4 @@
 - The Usual Suspects (1995) [Link](https://www.imdb.com/title/tt0114814/?ref_=fn_al_tt_1)
 - Forrest Gump (1994) [Link](https://www.imdb.com/title/tt0109830/?ref_=adv_li_tt)
 - Catch Me If You Can (2002) [Link](https://www.imdb.com/title/tt0264464/)
+- Fight Club (1999) [Link](https://www.imdb.com/title/tt0137523/)

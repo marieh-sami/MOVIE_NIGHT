@@ -6,4 +6,4 @@
 - Pulp Fiction (1994) [Link](https://www.imdb.com/title/tt0110912/)
 - Inglourious Basterds (2009) [Link](https://www.imdb.com/title/tt0361748/)
 - Don't Look up (2021) [Link](https://www.imdb.com/title/tt11286314/)
-- After sun (2022) [Link](https://www.imdb.com/title/tt19770238/)
+- Aftersun (2022) [Link](https://www.imdb.com/title/tt19770238/)

@@ -10,3 +10,4 @@
 - Joker (2019) [Link](https://www.imdb.com/title/tt7286456/)
 - Uncut Gems (2019) [Link](https://www.imdb.com/title/tt5727208/)
 - Three Billboards Outside Ebbing, Missouri (2017) [Link](https://www.imdb.com/title/tt5027774/)
+- Logan (2017) [Link](https://www.imdb.com/title/tt3315342/)

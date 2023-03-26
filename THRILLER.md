@@ -10,3 +10,4 @@
 - Amores Perros (2000) [Link](https://www.imdb.com/title/tt0245712/)
 - 12 Monkeys (1995) [Link](https://www.imdb.com/title/tt0114746/)
 - The Devil's Advocate (1997) [Link](https://www.imdb.com/title/tt0118971/)
+- Carlito's Way (1993) [Link](https://www.imdb.com/title/tt0106519/)

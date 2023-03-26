@@ -6,3 +6,4 @@
 - Three Billboards Outside Ebbing, Missouri (2017) [Link](https://www.imdb.com/title/tt5027774/)
 - The Grand Budapest Hotel (2014) [Link](https://www.imdb.com/title/tt2278388/)
 - The Place Beyond the Pines (2012) [Link](https://www.imdb.com/title/tt1817273/)
+- The Girl with the Dragon Tattoo (2009) [Link](https://www.imdb.com/title/tt1132620/)

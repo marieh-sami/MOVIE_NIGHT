@@ -2,3 +2,4 @@
 - The Girl with the Dragon Tattoo (2009) [Link](https://www.imdb.com/title/tt1132620/)
 - Insomnia (2002) [Link](https://www.imdb.com/title/tt0278504/)
 - Mulholland Drive (2001) [Link](https://www.imdb.com/title/tt0166924/)
+- 12 Monkeys (1995) [Link](https://www.imdb.com/title/tt0114746/)

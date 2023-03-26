@@ -19,3 +19,4 @@
 - Carlito's Way (1993) [Link](https://www.imdb.com/title/tt0106519/)
 - Mean Streets (1973) [Link](https://www.imdb.com/title/tt0070379/) 
 - Goodfellas (1990) [Link](https://www.imdb.com/title/tt0099685/)
+- Blue Velvet (1986) [Link](https://www.imdb.com/title/tt0090756/)

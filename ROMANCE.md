@@ -6,3 +6,4 @@
 - Frida (2002) [Link](https://www.imdb.com/title/tt0120679/)
 - Punch-Drunk Love (2002) [Link](https://www.imdb.com/title/tt0272338/)
 - One Flew Over the Cuckoo's Nest (1975) [Link](https://www.imdb.com/title/tt0073486/)
+- Her (2013) [Link](https://m.imdb.com/title/tt1798709/)

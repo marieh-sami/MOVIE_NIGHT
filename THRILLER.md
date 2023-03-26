@@ -7,3 +7,4 @@
 - 21 Grams (2003) [Link](https://www.imdb.com/title/tt0315733/)
 - Insomnia (2002) [Link](https://www.imdb.com/title/tt0278504/)
 - Mulholland Drive (2001) [Link](https://www.imdb.com/title/tt0166924/)
+- Amores Perros (2000) [Link](https://www.imdb.com/title/tt0245712/)

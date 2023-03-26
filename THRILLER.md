@@ -1,2 +1,3 @@
 - The Menu (2022) [Link](https://www.imdb.com/title/tt9764362/?ref_=adv_li_tt)
 - Joker (2019) [Link](https://www.imdb.com/title/tt7286456/)
+- Uncut Gems (2019) [Link](https://www.imdb.com/title/tt5727208/?ref_=nv_sr_srsg_0)

@@ -8,3 +8,4 @@
 - Don't Look up (2021) [Link](https://www.imdb.com/title/tt11286314/)
 - Aftersun (2022) [Link](https://www.imdb.com/title/tt19770238/)
 - Joker (2019) [Link](https://www.imdb.com/title/tt7286456/)
+- Uncut Gems (2019) [Link](https://www.imdb.com/title/tt5727208/?ref_=nv_sr_srsg_0)

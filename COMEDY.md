@@ -8,3 +8,4 @@
 - Chicago (2002) [Link](https://www.imdb.com/title/tt0299658/)
 - Punch-Drunk Love (2002) [Link](https://www.imdb.com/title/tt0272338/)
 - The Big Lebowski (1998) [Link](https://www.imdb.com/title/tt0118715/)
+- Dumb and Dumber (1994) [Link](https://www.imdb.com/title/tt0109686/)

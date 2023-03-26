@@ -33,3 +33,4 @@
 - Amores Perros (2000) [Link](https://www.imdb.com/title/tt0245712/)
 - American Beauty (1999) [Link](https://www.imdb.com/title/tt0169547/)
 - Donnie Brasco (1997( [Link](https://www.imdb.com/title/tt0119008/) 
+- The Devil's Advocate (1997) [Link](https://www.imdb.com/title/tt0118971/)

@@ -35,3 +35,4 @@
 - Donnie Brasco (1997( [Link](https://www.imdb.com/title/tt0119008/) 
 - The Devil's Advocate (1997) [Link](https://www.imdb.com/title/tt0118971/)
 - The Conformist (1970) [Link](https://www.imdb.com/title/tt0065571/)
+- Cabaret (1972) [Link](https://www.imdb.com/title/tt0068327/)

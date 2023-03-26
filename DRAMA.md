@@ -17,3 +17,4 @@
 - The Place Beyond the Pines (2012) [Link](https://www.imdb.com/title/tt1817273/)
 - A Separation (2011) [Link](https://www.imdb.com/title/tt1832382/)
 - Biutiful(2010) [Link](https://www.imdb.com/title/tt1164999/)
+- The Girl with the Dragon Tattoo (2009) [Link](https://www.imdb.com/title/tt1132620/)

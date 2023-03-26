@@ -10,3 +10,4 @@
 - Burn After Reading (2008) [Link](https://www.imdb.com/title/tt0887883/)
 - In Bruges (2008) [Link](https://www.imdb.com/title/tt0780536/)
 - 21 Grams (2003) [Link](https://www.imdb.com/title/tt0315733/)
+- Chicago (2002) [Link](https://www.imdb.com/title/tt0299658/)

@@ -13,3 +13,4 @@
 - Logan (2017) [Link](https://www.imdb.com/title/tt3315342/)
 - Phantom Thread (2017) [Link](https://www.imdb.com/title/tt5776858/)
 - Interstellar (2014) [Link](https://www.imdb.com/title/tt0816692/)
+- Wild Tales (2014) [Link](https://www.imdb.com/title/tt3011894/)

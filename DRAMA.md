@@ -42,3 +42,4 @@
 - Once Upon a Time in America (1984) [Link](https://www.imdb.com/title/tt0087843/)
 - The Deer Hunter (1978) [Link](https://www.imdb.com/title/tt0077416/)
 - Carlito's Way (1993) [Link](https://www.imdb.com/title/tt0106519/)
+- Raging Bull (1980) [Link](https://www.imdb.com/title/tt0081398/?ref_=nv_sr_srsg_0)

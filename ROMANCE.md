@@ -3,3 +3,4 @@
 - Biutiful (2010) [Link](https://www.imdb.com/title/tt1164999/)
 - Two Lovers 92008) [Link](https://www.imdb.com/title/tt1103275/)
 - Head-On (2004) [Link](https://www.imdb.com/title/tt0347048/)
+- Frida (2002) [Link](https://www.imdb.com/title/tt0120679/)

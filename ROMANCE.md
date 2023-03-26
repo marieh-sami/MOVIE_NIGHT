@@ -5,3 +5,4 @@
 - Head-On (2004) [Link](https://www.imdb.com/title/tt0347048/)
 - Frida (2002) [Link](https://www.imdb.com/title/tt0120679/)
 - Punch-Drunk Love (2002) [Link](https://www.imdb.com/title/tt0272338/)
+- One Flew Over the Cuckoo's Nest (1975) [Link](https://www.imdb.com/title/tt0073486/)

@@ -31,3 +31,4 @@
 - Punch-Drunk Love (2002) [Link](https://www.imdb.com/title/tt0272338/)
 - Mulholland Drive (2001) [Link](https://www.imdb.com/title/tt0166924/)
 - Amores Perros (2000) [Link](https://www.imdb.com/title/tt0245712/)
+- American Beauty (1999) [Link](https://www.imdb.com/title/tt0169547/)

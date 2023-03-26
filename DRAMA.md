@@ -27,3 +27,4 @@
 - Downfall (2004) [Link](https://www.imdb.com/title/tt0363163/)
 - 21 Grams (2003) [Link](https://www.imdb.com/title/tt0315733/)
 - Insomnia (2002) [Link](https://www.imdb.com/title/tt0278504/)
+- Frida (2002) [Link](https://www.imdb.com/title/tt0120679/)

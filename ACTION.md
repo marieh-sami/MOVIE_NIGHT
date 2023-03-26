@@ -3,3 +3,4 @@
 - Logan (2017) [Link](https://www.imdb.com/title/tt3315342/)
 - Death Proof (2007) [Link](https://www.imdb.com/title/tt1028528/)
 - V for Vendetta (2005) [Link](https://www.imdb.com/title/tt0434409/)
+- Kung Fu Panda (2008) [Link](https://www.imdb.com/title/tt0441773/)

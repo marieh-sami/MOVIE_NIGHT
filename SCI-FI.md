@@ -5,3 +5,4 @@
 - Interstellar (2014) [Link](https://www.imdb.com/title/tt0816692/)
 - V for Vendetta (2005) [Link](https://www.imdb.com/title/tt0434409/)
 - 12 Monkeys (1995) [Link](https://www.imdb.com/title/tt0114746/)
+- Her (2013) [Link](https://m.imdb.com/title/tt1798709/)

@@ -1,4 +1,3 @@
-- The Menu (2022) [Link](https://www.imdb.com/title/tt9764362/)
 - Joker (2019) [Link](https://www.imdb.com/title/tt7286456/)
 - Uncut Gems (2019) [Link](https://www.imdb.com/title/tt5727208/)
 - Wild Tales (2014) [Link](https://www.imdb.com/title/tt3011894/)

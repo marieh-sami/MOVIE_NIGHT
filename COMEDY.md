@@ -1,4 +1,3 @@
-- The Menu (2022) [Link](https://www.imdb.com/title/tt9764362/)
 - Don't Look up (2021) [Link](https://www.imdb.com/title/tt11286314/)
 - Three Billboards Outside Ebbing, Missouri (2017) [Link](https://www.imdb.com/title/tt5027774/)
 - Wild Tales (2014) [Link](https://www.imdb.com/title/tt3011894/)

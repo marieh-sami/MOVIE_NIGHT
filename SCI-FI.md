@@ -1,4 +1,3 @@
-- 2001: A Space Odyssey (1968) [Link](https://www.imdb.com/title/tt0062622/)
 - Inception (2010) [Link](https://www.imdb.com/title/tt1375666/)
 - Don't Look up (2021) [Link](https://www.imdb.com/title/tt11286314/) 
 - Logan (2017) [Link](https://www.imdb.com/title/tt3315342/)

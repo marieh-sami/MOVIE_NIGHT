@@ -1,4 +1,3 @@
-- Gladiator (2000) [Link](https://www.imdb.com/title/tt0172495/?ref_=fn_al_tt_1)
 - Inception (2010) [Link](https://www.imdb.com/title/tt1375666/)
 - Logan (2017) [Link](https://www.imdb.com/title/tt3315342/)
 - Death Proof (2007) [Link](https://www.imdb.com/title/tt1028528/)

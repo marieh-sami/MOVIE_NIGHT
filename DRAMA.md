@@ -1,4 +1,3 @@
-- Gladiator (2000) [Link](https://www.imdb.com/title/tt0172495/)
 - The Usual Suspects (1995) [Link](https://www.imdb.com/title/tt0114814/)
 - Forrest Gump (1994) [Link](https://www.imdb.com/title/tt0109830/)
 - Catch Me If You Can (2002) [Link](https://www.imdb.com/title/tt0264464/)

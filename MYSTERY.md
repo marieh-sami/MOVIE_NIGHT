@@ -4,3 +4,4 @@
 - 12 Monkeys (1995) [Link](https://www.imdb.com/title/tt0114746/)
 - The Devil's Advocate (1997) [Link](https://www.imdb.com/title/tt0118971/)
 - The Prestige 92006) [Link](https://www.imdb.com/title/tt0482571/)
+- The Usual Suspects (1995) [Link](https://www.imdb.com/title/tt0114814/)

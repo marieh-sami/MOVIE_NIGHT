@@ -50,3 +50,4 @@
 - The Prestige 92006) [Link](https://www.imdb.com/title/tt0482571/)
 - The Usual Suspects (1995) [Link](https://www.imdb.com/title/tt0114814/)
 - Bridge of Spies (2015) [Link](https://www.imdb.com/title/tt3682448/)
+- Manchester by the Sea (2016) [Link](https://www.imdb.com/title/tt4034228/)

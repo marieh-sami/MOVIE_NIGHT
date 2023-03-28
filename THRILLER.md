@@ -12,3 +12,4 @@
 - Carlito's Way (1993) [Link](https://www.imdb.com/title/tt0106519/)
 - Mean Streets (1973) [Link](https://www.imdb.com/title/tt0070379/)
 - Blue Velvet (1986) [Link](https://www.imdb.com/title/tt0090756/)
+- Bridge of Spies (2015) [Link](https://www.imdb.com/title/tt3682448/)

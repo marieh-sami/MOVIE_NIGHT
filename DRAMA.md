@@ -48,3 +48,4 @@
 - Brazil (1985) [Link](https://www.imdb.com/title/tt0088846/)
 - Taxi Driver (1976) [Link](https://www.imdb.com/title/tt0075314/)
 - The Prestige 92006) [Link](https://www.imdb.com/title/tt0482571/)
+- The Usual Suspects (1995) [Link](https://www.imdb.com/title/tt0114814/)

@@ -52,3 +52,4 @@
 - Bridge of Spies (2015) [Link](https://www.imdb.com/title/tt3682448/)
 - Manchester by the Sea (2016) [Link](https://www.imdb.com/title/tt4034228/)
 - Sound of Metal (2019) [Link](https://www.imdb.com/title/tt5363618/)
+- Django Unchained (2012) [Link](https://www.imdb.com/title/tt1853728/)

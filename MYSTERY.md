@@ -5,3 +5,5 @@
 - The Devil's Advocate (1997) [Link](https://www.imdb.com/title/tt0118971/)
 - The Prestige (2006) [Link](https://www.imdb.com/title/tt0482571/)
 - The Usual Suspects (1995) [Link](https://www.imdb.com/title/tt0114814/)
+- Mystic River (2003) [Link](https://www.imdb.com/title/tt0327056/)
+- Memento (2000) [Link](https://www.imdb.com/title/tt0209144/?ref_=nv_sr_srsg_0)
